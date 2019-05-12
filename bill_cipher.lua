@@ -1,6 +1,5 @@
---[[ 
-PAYLOAD VISUEL FAIT PAR IXXE
---]] 
+-- by IXXE
+-- Read LICENSE before making changes
 
 function RandomString( intMin, intMax )
     local ret = ""
